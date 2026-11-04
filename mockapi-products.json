@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Zamioculca Zamiifolia",
+    "price": 18500,
+    "description": "Planta de interior elegante y resistente, con hojas verdes brillantes que\n                            aportan frescura y modernidad.",
+    "image": "/assets/images/products/zamiocula.png",
+    "category": "Plantas de Interior",
+    "createdAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Lirio de la Paz",
+    "price": 12000,
+    "description": "Elegante planta con flores blancas que aportan serenidad a cualquier\n                            ambiente.",
+    "image": "/assets/images/products/liriodelapaz.png",
+    "category": "Plantas de Interior",
+    "createdAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Monstera Deliciosa",
+    "price": 24000,
+    "description": "Planta tropical con hojas únicas. Perfecta para aportar frescura y un\n                            toque moderno.",
+    "image": "/assets/images/products/monsteradeliciosa.png",
+    "category": "Plantas Tropicales",
+    "createdAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Helecho de Boston",
+    "price": 9500,
+    "description": "Planta clásica y frondosa con largas hojas arqueadas en verde vibrante.",
+    "image": "/assets/images/products/helechoboston.png",
+    "category": "Plantas de Interior",
+    "createdAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Palo de Agua (Drácena)",
+    "price": 11000,
+    "description": "Planta majestuosa con tronco robusto y vistosas hojas en verde y\n                            amarillo.",
+    "image": "/assets/images/products/palodeagua.png",
+    "category": "Plantas de Interior",
+    "createdAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Ave del Paraíso",
+    "price": 29000,
+    "description": "Imponentes hojas tropicales que aportan un aire lujoso y sofisticado a\n                            espacios amplios.",
+    "image": "/assets/images/products/bg-8f448523-39d5-493d-a12b-3d7ea826a15e.png",
+    "category": "Plantas Tropicales",
+    "createdAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "name": "Palmera Rapis",
+    "price": 19500,
+    "description": "Elegancia exótica con múltiples troncos delgados y hojas en abanico.",
+    "image": "/assets/images/products/palmerarapis.png",
+    "category": "Plantas Exóticas",
+    "createdAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "name": "Cordyline \"Electric Pink\"",
+    "price": 15000,
+    "description": "Hojas en tonos rojizos y rosa brillante que irradian energía y\n                            personalidad.",
+    "image": "/assets/images/products/CordylineElectricPink.png",
+    "category": "Plantas de Exterior",
+    "createdAt": "2026-06-15T00:00:00.000Z"
+  }
+]

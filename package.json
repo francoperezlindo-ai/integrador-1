@@ -1,0 +1,21 @@
+{
+  "name": "flora-selecta-react",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.1",
+    "react-hook-form": "^7.62.0"
+  },
+  "devDependencies": {
+    "vite": "^6.4.4",
+    "@vitejs/plugin-react": "^4.7.0"
+  }
+}
